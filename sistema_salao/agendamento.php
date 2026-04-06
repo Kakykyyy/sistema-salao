@@ -11,6 +11,7 @@
             echo "<option value='{$c['id']}'>{$c['nome']}</option>";
         }
         ?>
+        <link rel="stylesheet" href="style.css">
     </select><br>
 
     Serviço:

@@ -7,6 +7,7 @@
     Telefone: <input type="text" name="telefone"><br>
     Email: <input type="text" name="email"><br>
     <button type="submit" name="salvar">Salvar</button>
+    <link rel="stylesheet" href="style.css">
 </form>
 
 <?php
