@@ -1,0 +1,20 @@
+[06-Apr-2026 15:57:52 America/Sao_Paulo] PHP Warning:  Constant APP_TIMEZONE already defined in C:\xampp\htdocs\sistema_salao\conexao.php on line 4
+[06-Apr-2026 15:57:52 America/Sao_Paulo] PHP Warning:  Undefined variable $editing in C:\xampp\htdocs\sistema_salao\clientes.php on line 210
+[06-Apr-2026 15:57:52 America/Sao_Paulo] PHP Warning:  Undefined variable $editing in C:\xampp\htdocs\sistema_salao\clientes.php on line 216
+[06-Apr-2026 15:57:52 America/Sao_Paulo] PHP Warning:  Undefined variable $editing in C:\xampp\htdocs\sistema_salao\clientes.php on line 217
+[06-Apr-2026 15:57:57 America/Sao_Paulo] PHP Warning:  Constant APP_TIMEZONE already defined in C:\xampp\htdocs\sistema_salao\conexao.php on line 4
+[06-Apr-2026 15:57:57 America/Sao_Paulo] PHP Warning:  Undefined variable $editing in C:\xampp\htdocs\sistema_salao\clientes.php on line 210
+[06-Apr-2026 15:57:57 America/Sao_Paulo] PHP Warning:  Undefined variable $editing in C:\xampp\htdocs\sistema_salao\clientes.php on line 216
+[06-Apr-2026 15:57:57 America/Sao_Paulo] PHP Warning:  Undefined variable $editing in C:\xampp\htdocs\sistema_salao\clientes.php on line 217
+[06-Apr-2026 16:12:48 America/Sao_Paulo] PHP Warning:  Constant APP_TIMEZONE already defined in C:\xampp\htdocs\sistema_salao\conexao.php on line 4
+[06-Apr-2026 16:12:49 America/Sao_Paulo] PHP Warning:  Constant APP_TIMEZONE already defined in C:\xampp\htdocs\sistema_salao\conexao.php on line 4
+[06-Apr-2026 16:14:07 America/Sao_Paulo] PHP Warning:  Constant APP_TIMEZONE already defined in C:\xampp\htdocs\sistema_salao\conexao.php on line 4
+[06-Apr-2026 16:19:46 America/Sao_Paulo] Query error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | SQL: INSERT INTO clientes (nome, telefone, email, ativo) VALUES (?,?,?,?,1)
+[06-Apr-2026 16:20:12 America/Sao_Paulo] Query error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | SQL: INSERT INTO clientes (nome, telefone, email, ativo) VALUES (?,?,?,?,1)
+[06-Apr-2026 16:20:36 America/Sao_Paulo] Query error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | SQL: INSERT INTO clientes (nome, telefone, email, ativo) VALUES (?,?,?,?,1)
+[06-Apr-2026 16:20:41 America/Sao_Paulo] Query error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | SQL: INSERT INTO clientes (nome, telefone, email, ativo) VALUES (?,?,?,?,1)
+[06-Apr-2026 16:24:27 America/Sao_Paulo] Query error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | SQL: INSERT INTO clientes (nome, telefone, email, ativo) VALUES (?,?,?,?,1)
+[06-Apr-2026 16:24:31 America/Sao_Paulo] Query error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | SQL: INSERT INTO clientes (nome, telefone, email, ativo) VALUES (?,?,?,?,1)
+[06-Apr-2026 16:25:00 America/Sao_Paulo] Query error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | SQL: INSERT INTO clientes (nome, telefone, email, ativo) VALUES (?,?,?,?,1)
+[06-Apr-2026 16:26:02 America/Sao_Paulo] Query error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | SQL: INSERT INTO clientes (nome, telefone, email, ativo) VALUES (?,?,?,?,1)
+[06-Apr-2026 16:26:06 America/Sao_Paulo] Query error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 | SQL: INSERT INTO clientes (nome, telefone, email, ativo) VALUES (?,?,?,?,1)
